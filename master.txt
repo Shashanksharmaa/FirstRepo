@@ -1,1 +1,2 @@
 This is first comment in master text file
+Making more changes into it 
